@@ -1,0 +1,27 @@
+
+<!--/ pro schema -->
+
+ <!--Professional Schema-->
+<script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "Service",
+        "name": "BeFenced - Chain Mesh Fencing Contractor",
+        "provider": {
+            "@type": "BeFenced,
+            "image": "https://befenced.com.au/img/chain-mesh-fencing-farming-industrial-building-inclosure-be-fenced.jpg",
+            "telephone": "+61407339782",
+        "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "",
+        "addressLocality": "Longwarry",
+        "addressRegion": "VIC",
+        "postalCode": "3816",
+        "addressCountry": "Australia"  
+        },
+         "paymentAccepted":"Visa, Master Card, EFTPOS, Direct deposit, Cash",
+ "priceRange":"Book A Quote"
+        }}
+    }</script>
+
+<!--/ pro schema -->
