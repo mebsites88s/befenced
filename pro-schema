@@ -25,3 +25,44 @@
     }</script>
 
 <!--/ pro schema -->
+<!-- local business Schema created by Mebsites -->
+<!-- copy and paste into your header-->
+
+<script type='application/ld+json'> 
+{
+  "@context": "http://www.schema.org",
+  "@type": "LocalBusiness",
+  "name": "BeFenced - Chain Mesh Fencing Contractor",
+  "url": "https://befenced.com.au/",
+  "logo": "https://befenced.com.au/img/logo.png",
+  "image": "https://befenced.com.au/img/be-fenced-mesh-chain-school-factory-industrial-fencing.jpg",
+  "telephone":"+61407339782",
+  "description": "Chain Link Fencing contractor 25years experience servicing Victoria - Pool Fencing, fencing panels, fencing, Gate, chainlink fencing, chain mesh fencing, chain wire fencing, ☎Call For Info☎",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "",
+    "addressLocality": "Longwarry",
+    "addressRegion": "Victoria",
+    "postalCode": "3101",
+    "addressCountry": "Australia"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "-36.4855915",
+    "longitude": "140.9778489"
+  },
+  "hasMap": "",
+  "openingHours": "Mo, Tu, We, Th, Fr, 08:00-19:00",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "Customer Service",
+    "telephone": "+61407339782"
+  },
+  "aggregateRating": {
+    "ratingValue": "5",
+    "reviewCount": "4"
+  },
+  "priceRange" : "To Suit"
+}
+ </script>
+ <!--/ Schema --> 
